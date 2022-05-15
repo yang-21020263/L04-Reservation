@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="header">Book a table!</string>
+    <string name="name">Enter your name</string>
+    <string name="phone">Enter your mobile number</string>
+    <string name="size">Enter group size</string>
+    <string name="table">Select table type</string>
+    <string name="smoking">Smoking Area</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="time">Pick a time</string>
+    <string name="date">Pick a date</string>
+</resources>
